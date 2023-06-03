@@ -2,5 +2,4 @@
 fastapi==0.96.0
 nltk==3.8.1
 tensorflow==2.2
-tensorflow_intel==2.12.0
-uvicorn==0.22.0
+uvicorn==0.20.0
