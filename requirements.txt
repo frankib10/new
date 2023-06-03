@@ -1,6 +1,1 @@
-pip install uvicorn
-pip install tensorflow
-pip install pandas
-pip install json
-pip install scikit-learn
-pip freeze > requirements.txt
+
