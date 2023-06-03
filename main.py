@@ -23,7 +23,7 @@ from sklearn.preprocessing import LabelEncoder
 #model=tf.keras.models.load_model("C://Users//Public//model3.h5")
 app=FastAPI()
 
-with open('C://Users//Public//New folder//intents (2).json') as intents:
+with open('intents (2).json') as intents:
     data=json.load(intents)
 class train():
     tags=[]
