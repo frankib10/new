@@ -1,7 +1,7 @@
 from tensorflow import keras
 import tensorflow as tf
-from tf.keras.layers import LSTM, Input,Embedding,Dense,GlobalMaxPooling1D,Flatten
-from tf.keras.preprocessing.text import Tokenizer
+from tensorflow.keras.layers import LSTM, Input,Embedding,Dense,GlobalMaxPooling1D,Flatten
+from tensorflow.keras.preprocessing.text import Tokenizer
 import json
 import nltk
 import numpy as np
